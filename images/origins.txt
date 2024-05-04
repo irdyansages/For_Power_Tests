@@ -1,0 +1,8 @@
+attacks:
+missile-chaos.png from Invasion from the Unknown
+
+units:
+Initiate from Saving Elensefar
+Orcish Hero by trickityhouses
+orcish shamans from Son of the Black-Eye
+Wanderer from The Rise of Wesnoth

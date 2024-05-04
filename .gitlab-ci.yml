@@ -1,0 +1,24 @@
+stages:
+  - test
+
+.test_job: &test_job
+  stage: test
+  
+  script:
+    - wmllint --dryrun /usr/share/games/wesnoth/data/core .
+
+.publish_job: &publish_job
+  stage: publish
+  script:
+    - wesnoth_addon_manager -u . --port $SERVER_PORT --pbl-key passphrase $ADDON_PASSPHRASE
+  only:
+    - tags@irdyansages/For_Power_Tests
+  environment:
+    name: addons/$WESNOTH_VERSION
+    url: https://add-ons.wesnoth.org/$WESNOTH_VERSION/
+
+test:1.18:
+  <<: *test_job
+  image: konecnyjakub/wesnoth:1.18
+  variables:
+    WESNOTH_VERSION: "1.18"

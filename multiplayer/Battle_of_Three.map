@@ -1,0 +1,35 @@
+border_size=1
+usage=map
+
+Rd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Hd, Dd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Hd, Hd, Dd, Dd, Dd, Md, Dd, Md, Md, Md, Md, Md, Md, Md
+Dd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Hd, Hd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Dd, Rd, Rd, Dd, Cd, Dd, Dd, Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Dd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Dd, Dd^Edp, Dd^Vdt, Cd, 1 Kd, Cd, Dd^Vdt, Dd, Dd, Dd, Dd, Dd^Dc, Dd, Dd, Dd, Dd, Dd^Edp, Dd^Edp, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Hd, Dd, Dd, Dd, Dd, Cd, Cd, Cd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Edp, Dd, Dd, Dd, Dd^Vda, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md
+Hd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Dd^Edp, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Rd, Rd, Rd, Rd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md
+Hd, Hd, Hd, Dd, Dd, Dd, Dd^Edp, Dd, Rd, Rd, Rd, Dd^Dc, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Rd, Dd^Vda, Dd, Dd, Md, Md, Md, Md, Md, Md
+Hd, Hd, Hd, Dd, Dd, Dd^Dc, Dd, Rd, Dd, Dd, Dd, Rd, Rd, Dd, Rd, Rd, Dd, Rd, Rd, Rd, Dd, Dd, Dd^Edp, Dd, Dd, Dd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Md, Md, Md, Dd
+Hd, Hd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Hd, Hd, Dd, Dd, Dd^Vda, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Edp, Dd^Edp, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Hd, Hd, Hd, Dd, Dd, Dd, Rd
+Dd, Dd, Rd, Dd, Dd, Dd, Dd^Vda, Rd, Dd, Hd, Hd, Dd, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Hd, Hd, Hd, Hd, Dd, Rd, Rd, Dd
+Rd, Rd, Dd, Rd, Rd, Rd, Dd, Rd, Rd, Dd, Dd, Dd, Dd^Edp, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Dd, Dd^Dr, Dd, Rd, Dd, Dd, Hd, Hd, Hd, Hd, Dd, Rd, Dd, Dd
+Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Rd, Dd^Edp, Dd^Edp, Rd, Dd, Dd, Dd^Dr, Dd^Dr, Dd, Dd, Hd, Hd, Dd, Dd, Dd, Dd^Dr, Rd, Rd, Rd, Dd, Dd, Hd, Dd, Dd, Rd, Dd, Dd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Gd^Fts, Dd, Dd, Rd, Rd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Rd, Rd, Rd, Dd, Dd, Dd, Rd, Rd, Dd, Dd^Vdt, Rd, Rd, Dd, Dd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd, Dd, Dd, Rd, Rd, Dd, Rd, Rd, Rd, Rd, Dd^Edp, Dd^Edp, Rd, Dd, Dd^Edp, Dd, Dd, Dd, Cd, Cd, Cd, Dd, Rd, Dd, Dd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Vda, Dd, Dd, Dd, Dd^Edp, Dd, Dd, Rd, Dd, Dd^Edp, Dd, Dd, Dd^Vdt, Cd, 3 Kd, Cd, Rd, Dd, Rd, Rd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd, Dd, Hd, Hd, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Rd, Rd, Dd, Cd, Dd, Dd, Dd, Dd, Dd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd, Dd, Dd, Dd, Hd, Dd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd^Vda, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd^Edp, Dd^Edp, Dd, Dd, Dd, Dd, Dd, Rd, Rd, Dd^Vda, Dd, Dd, Dd, Rd, Rd, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Hd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd, Dd^Edp, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Rd, Rd, Rd, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Hd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd, Hd, Hd, Dd, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Rd, Dd, Dd^Dr, Dd^Dr, Dd, Dd, Dd, Dd, Hd, Hd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd, Dd, Dd, Rd, Rd, Dd^Dr, Dd, Dd, Dd, Hd, Dd, Dd, Dd, Dd^Vda, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Gd^Fts, Dd, Dd^Vda, Rd, Rd, Dd, Dd, Dd, Dd^Dr, Dd, Dd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Edp, Dd^Edp, Dd, Dd, Dd
+Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Gd^Fts, Dd, Dd^Do, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Dd, Dd, Dd, Dd, Dd^Edp, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd
+Dd, Gd^Fts, Dd, Gd^Fts, Dd, Gd^Fts, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Dd, Dd^Dr, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Md, Dd, Md, Dd, Md, Md, Md
+Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Vda, Dd, Rd, Dd, Dd, Dd, Dd, Dd^Dr, Dd, Dd, Dd, Dd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Rd, Dd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Rd, Rd, Cd, Cd, Cd, Dd, Rd, Rd, Rd, Rd, Dd, Dd, Dd^Do, Dd, Dd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Rd, Rd, Dd, Dd^Vdt, Cd, 2 Kd, Cd, Dd^Vdt, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Rd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Dd, Dd, Dd, Cd, Rd, Dd, Dd, Dd, Dd, Dd, Dd^Edpp, Dd^Edpp, Dd, Dd, Dd, Dd, Dd^Edp, Dd, Rd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Dd, Dd^Edpp, Dd, Dd, Dd, Dd, Hd, Dd, Dd^Edp, Dd, Rd, Dd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Dd, Dd, Dd, Dd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Hd, Hd, Dd, Dd, Rd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md
+Dd, Dd, Dd, Dd, Dd, Dd, Dd, Rd, Rd, Dd, Dd, Dd, Hd, Hd, Hd, Hd, Dd, Hd, Hd, Hd, Dd, Rd, Dd, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md

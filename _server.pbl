@@ -1,0 +1,8 @@
+author="James_The_Invisible"
+email="jakub.konecny2@centrum.cz"
+icon="data/core/images/units/unknown-unit.png~TC(1,magenta)"
+title="For Power series Tests"
+type="campaign"
+version="1.0.0"
+description="Suite of tests of new features for For Power series. Be aware that it contains unmarked spoilers about events in later chapters of For Power. (Note: this add-on requires the latest version of For Power to be installed.)"
+dependencies=For_Power
